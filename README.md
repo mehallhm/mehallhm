@@ -4,13 +4,13 @@
 
 <h3 align="center">I should probably get my homework done instead</h3>
 
+Want to get back into frontend Web Dev but also play with Python ML
+
 ```js
 const solveProblems = (problem) => {
   return 'Maybe later'
 }
 ```
-
-Want to get back into frontend Web Dev but also play with Python ML
 
 <h4>And for a whole bunch o' icons:</h4>
 Python and ML: <br>
