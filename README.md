@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A dev from somewhere in the Midwest</h3>
+<h1 align="center">Hi, I'm Michael</h1>
+<h3 align="center">I should probably get my homework done instead</h3>
 
-<p>I should probably get my homework done instead</p>
+```js
+const solveProblems = (problem) => {
+  return 'Maybe later'
+}
+```
 
 <p>Want to get back into frontend Web Dev but also play with Python ML</p>
 
