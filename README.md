@@ -1,7 +1,7 @@
 <p align="center">
   <img src="image.png">
 </p>
-#
+
 <h3 align="center">I should probably get my homework done instead</h3>
 
 ```js
