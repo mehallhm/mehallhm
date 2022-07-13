@@ -1,4 +1,6 @@
-<img src="image.png" style="text-align:center;"/>
+<p align="center">
+  <img src="image.png">
+</p>
 <h1 align="center">Hello There</h1>
 <h3 align="center">I should probably get my homework done instead</h3>
 
