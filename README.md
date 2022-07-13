@@ -1,4 +1,4 @@
-![mike.png]
+![Mike.png]
 <h1 align="center">Hello There</h1>
 <h3 align="center">I should probably get my homework done instead</h3>
 
