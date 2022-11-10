@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile2.png">
+  <img src="Mike.png">
 </p>
 
 <h3 align="center">I should probably get my homework done instead</h3>
