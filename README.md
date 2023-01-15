@@ -4,7 +4,7 @@
 
 <h3 align="center">I should probably get my homework done instead</h3>
 
-Want to get back into frontend Web Dev but also play with Python ML
+Living in the dangerous landscape of javascript. And the endless frameworks. 
 
 ```js
 const solveProblems = (problem) => {
